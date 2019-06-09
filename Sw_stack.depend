@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1560090691 source:c:\users\ebrah\documents\code_blocks_workspace\sw_stack\sw_stack.c
+	"common.h"
+	"sw_stack.h"
+	<stdlib.h>
+
+1530349423 c:\users\ebrah\documents\code_blocks_workspace\sw_stack\common.h
+
+1530900500 c:\users\ebrah\documents\code_blocks_workspace\sw_stack\sw_stack.h
+	"common.h"
+
+1560096809 source:c:\users\ebrah\documents\code_blocks_workspace\sw_stack\software_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"sw_stack.h"
+	"test_cases.h"
+
+1530900474 c:\users\ebrah\documents\code_blocks_workspace\sw_stack\test_cases.h
+
+1530875119 source:c:\users\ebrah\documents\code_blocks_workspace\sw_stack\test_cases.c
+	<stdio.h>
+	<stdlib.h>
+	"sw_stack.h"
+	"test_cases.h"
+
